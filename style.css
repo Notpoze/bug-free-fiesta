@@ -1,0 +1,25 @@
+.p-4 {
+    text-align: center;
+}
+
+.rightButton {
+    float: right;
+}
+
+#red {
+    background-color: red;
+    color: white;
+}
+
+.leftButton {
+    float: left;
+}
+
+#green {
+    background-color: green;
+    color: white;
+}
+
+#dateD {
+    float: right;
+}
